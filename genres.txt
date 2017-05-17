@@ -33,11 +33,11 @@ alternative
 alternative hip-hop
 alternative metal
 alternative rap
-alternative rock
+# alternative rock
 ambient
 ambient black metal
 ambient industrial
-americana
+# americana
 anarcho-punk
 andean
 andes
@@ -351,7 +351,7 @@ glitch-hop
 glockenspiel
 gnawa
 goa
-goat metal
+# goat metal
 # goregrind
 gospel
 gospel choir
@@ -423,7 +423,7 @@ industrial
 # industrial black metal
 # industrial death metal
 # industrial jungle pussy punk
-industrial metal
+# industrial metal
 industrial rock
 initial d
 instrumental hip-hop
@@ -709,6 +709,7 @@ romantic
 roots
 roots reggae
 # russian
+russian black metal
 russian rap
 russian rock
 russian screamo
@@ -759,7 +760,7 @@ space music
 space rock
 spanish
 spanish rock
-speed metal
+# speed metal
 speedcore
 spoken word
 sri lanka
@@ -844,7 +845,7 @@ vibraphone
 video game music
 # vietnam
 vietnamese
-viking metal
+# viking metal
 violin
 visual kei
 vocal jazz
