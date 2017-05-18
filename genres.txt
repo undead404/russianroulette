@@ -80,6 +80,7 @@ belgian
 bengali
 batcave
 battle metal
+beatbox
 # belarusian
 benin
 berlin
@@ -255,7 +256,7 @@ drone
 drone ambient
 # drum and bass
 drums
-dub
+# dub
 dubstep
 duduk
 # dungeon synth
@@ -275,7 +276,7 @@ electronic dub
 electropop
 electropunk
 # electrotango
-emo
+# emo
 emo violence
 emocore
 epic doom metal
@@ -795,7 +796,7 @@ tango argentino
 tanzania
 technical brutal death metal
 technical death metal
-technical metal
+# technical metal
 # technical thrash metal
 techno
 thai
